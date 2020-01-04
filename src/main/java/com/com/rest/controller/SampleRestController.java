@@ -1,7 +1,7 @@
-package com.test.controller;
+package com.com.rest.controller;
 
+import com.com.rest.model.Employee;
 import com.google.common.collect.Lists;
-import com.test.model.Employee;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

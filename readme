@@ -1,0 +1,3 @@
+I have crated a SameRestController that has end points for all method type including GET, POST, DELETE, PUT
+I have tried to use postman for POST, DELETE and PUT operation
+I want to use write client using spring rest template for same operations
