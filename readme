@@ -1,3 +1,10 @@
 I have crated a SameRestController that has end points for all method type including GET, POST, DELETE, PUT
 I have tried to use postman for POST, DELETE and PUT operation
 I want to use write client using spring rest template for same operations
+
+urls:
+http://localhost:8081/api/employees
+
+aws :
+
+http://ec2-18-221-93-122.us-east-2.compute.amazonaws.com:8081/api/employees
