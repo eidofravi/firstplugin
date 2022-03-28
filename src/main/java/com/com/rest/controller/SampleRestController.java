@@ -12,7 +12,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/api")
 public class SampleRestController {
-    private static List<Employee> employeeList = Lists.newArrayList(
+    private static final List<Employee> employeeList = Lists.newArrayList(
             new Employee("ravi", 111L),
             new Employee("toni", 222L),
             new Employee("mona", 333L)
