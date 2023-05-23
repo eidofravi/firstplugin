@@ -1,0 +1,40 @@
+Infrastructure as code (HCL);Yes;Yes;Yes;Yes
+Workspaces;Yes;Yes;Yes;Yes
+Variables;Yes;Yes;Yes;Yes
+Runs (separate plan and apply);Yes;Yes;Yes;Yes
+Resource graph;Yes;Yes;Yes;Yes
+Providers;Yes;Yes;Yes;Yes
+Modules;Yes;Yes;Yes;Yes
+Public registry;Yes;Yes;Yes;Yes
+Community;Yes;Yes;Yes;Yes
+Premium support and services;;Yes;Yes;Yes
+Remote state storage;Yes;Yes;Yes;Yes
+Secure variable storage;Yes;Yes;Yes;Yes
+Remote runs (plan & apply);Yes;Yes;Yes;Yes
+Private registry;Yes;Yes;Yes;Yes
+Projects;Yes;Yes;Yes;Yes
+Team management ;;Yes;Yes;Yes
+Configuration designer ;;;Yes;Yes
+Cross-organization registry sharing;;;;yes
+Workspace management;Yes;Yes;Yes;Yes
+Cost estimation;;Yes;Yes;Yes
+Drift detection;;;Yes;Yes
+Audit logging;;;Yes;Yes
+Runtime metrics (Prometheus);;;;yes
+Dynamic provider credentials;Yes;Yes;Yes;Yes
+Policy as code (Sentinel);;Yes;Yes;Yes
+Policy as code (OPA);;Yes;Yes;Yes
+Run tasks: Advisory enforcement;;Yes;Yes;Yes
+Policy enforcement level: Advisory;;Yes;Yes;Yes
+Policy enforcement level: Soft/hard mandatory;;Yes;Yes;Yes
+Run tasks: Hard enforcement;;Yes;Yes;Yes
+Air gap network deployment;;;;Yes
+Application-level logging;;;;Yes
+Log forwarding;;;;Yes
+VCS connection;Yes;Yes;Yes;Yes
+SSO;;;Yes;Yes
+Run triggers;Yes;Yes;Yes;Yes
+Concurrency;1;2 (Add-on);Pay to customize;Yes
+Self-hosted agents;;;Pay to customize;Yes
+Clustered Horizontal Scaling ;;;;Yes
+Support for ServiceNow integration;;;Yes;Yes
